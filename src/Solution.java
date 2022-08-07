@@ -8,11 +8,12 @@ import java.util.*;
 
 public class Solution {
     public static void main(String[] args) throws IOException, ParseException {
-//         task1And2();
-//         task3();
-//         task4();
-//         task5();
- //        task6();
+         task1And2();
+         task3();
+         task4();
+         task5();
+         task6();
+         task7();
     }
 // Задание №1 и №2.
     public static void task1And2() throws IOException, ParseException {
@@ -189,7 +190,6 @@ public class Solution {
 
     public static void task7() {
 
-        public static void task7() {
             int age = 25;
             int salary = 60_000;
             int wantedSum = 330_000;
@@ -211,7 +211,6 @@ public class Solution {
                 System.out.println("Отказано.");
             } else {
                 System.out.println("Одобрено.");
-            }
         }
     }
 }
